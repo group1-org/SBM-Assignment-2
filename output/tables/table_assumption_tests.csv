@@ -1,0 +1,12 @@
+,value
+Breusch-Pagan LM,646.6841
+Breusch-Pagan p-value,0.0
+Influential obs. (Cook's D > 4/n),598.0
+Share influential,0.0336
+VIF Has expansion,1.0587
+VIF log(playing time),1.4509
+VIF Min. players,1.1128
+VIF Max. players (capped),1.11
+VIF Min. age,1.4518
+VIF log(publisher size),1.1658
+VIF Self-/web-published,1.1426

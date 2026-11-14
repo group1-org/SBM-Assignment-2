@@ -1,0 +1,31 @@
+column,family,label
+cat_card_game,categories,Card Game
+cat_wargame,categories,Wargame
+cat_fantasy,categories,Fantasy
+cat_party_game,categories,Party Game
+cat_dice,categories,Dice
+cat_children_s_game,categories,Children's Game
+cat_science_fiction,categories,Science Fiction
+cat_fighting,categories,Fighting
+cat_abstract_strategy,categories,Abstract Strategy
+cat_economic,categories,Economic
+cat_animals,categories,Animals
+cat_world_war_ii,categories,World War II
+cat_humor,categories,Humor
+cat_bluffing,categories,Bluffing
+cat_deduction,categories,Deduction
+mech_dice_rolling,mechanics,Dice Rolling
+mech_hand_management,mechanics,Hand Management
+mech_set_collection,mechanics,Set Collection
+mech_variable_player_powers,mechanics,Variable Player Powers
+mech_hexagon_grid,mechanics,Hexagon Grid
+mech_simulation,mechanics,Simulation
+mech_card_drafting,mechanics,Card Drafting
+mech_tile_placement,mechanics,Tile Placement
+mech_modular_board,mechanics,Modular Board
+mech_grid_movement,mechanics,Grid Movement
+mech_area_majority_influence,mechanics,Area Majority / Influence
+mech_roll_spin_and_move,mechanics,Roll / Spin and Move
+mech_cooperative_game,mechanics,Cooperative Game
+mech_area_movement,mechanics,Area Movement
+mech_simultaneous_action_selection,mechanics,Simultaneous Action Selection

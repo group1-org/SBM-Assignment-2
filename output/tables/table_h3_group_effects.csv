@@ -1,0 +1,5 @@
+,coef,se,ci_low,ci_high,p_value,pct_effect,n_with_expansion
+Other genres,1.2513,0.031,1.1905,1.3122,0.0,2.495,2933.0
+Planned-expansion genres,0.9545,0.0439,0.8685,1.0405,0.0,1.5974,1156.0
+Difference (interaction),-0.2968,0.0535,-0.4016,-0.192,0.0,-0.2568,
+Difference without wargames (5b),-0.0694,0.099,-0.2635,0.1248,0.4838,-0.067,
